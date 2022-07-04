@@ -20,9 +20,9 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/impredicative/wrapdisc/",
     packages=find_packages(exclude=["scripts"]),
-    python_requires=">=3.8",
+    python_requires=">=3.10",
     classifiers=[  # https://pypi.org/classifiers/
-        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.10",
         "License :: OSI Approved :: GNU Affero General Public License v3",
         "Topic :: Scientific/Engineering :: Mathematics",
         "Topic :: Scientific/Engineering :: Information Analysis",
